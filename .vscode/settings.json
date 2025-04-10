@@ -17,7 +17,7 @@
   // workbench
   "workbench.editor.enablePreview": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Monokai",
   "workbench.editorAssociations": {
     "*.svg": "default"
   },
